@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "tutrialmod:firestone"
+  },
+  "result": "tutrialmod:firestone_block",
+  "experience": 100000000.65,
+  "cookingtime": 5
+}

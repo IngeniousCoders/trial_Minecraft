@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "tutrialmod:amethyst"
+  },
+  "result": "tutrialmod:amethyst_slab",
+  "count": 5
+}

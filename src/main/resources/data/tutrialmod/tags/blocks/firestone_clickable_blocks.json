@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:obsidian",
+    "tutrialmod:firestone_block",
+    "tutrialmod:amethyst_block"
+  ]
+}

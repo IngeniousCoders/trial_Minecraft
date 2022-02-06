@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#W#",
+    "#W#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "W": {
+      "item": "tutrialmod:amethyst"
+    }
+  },
+  "result": {
+    "item": "tutrialmod:amethyst_fence_gate",
+    "count": 3
+  }
+}

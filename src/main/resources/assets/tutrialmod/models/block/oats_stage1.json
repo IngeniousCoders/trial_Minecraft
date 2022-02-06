@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "crop": "tutrialmod:block/oats_crop_stage1"
+  }
+}

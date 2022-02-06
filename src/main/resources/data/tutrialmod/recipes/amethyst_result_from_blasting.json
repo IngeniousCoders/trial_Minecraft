@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "tutrialmod:amethyst_ore"
+  },
+  "result": "tutrialmod:amethyst",
+  "experience": 1000.1,
+  "cookingtime": 1
+}

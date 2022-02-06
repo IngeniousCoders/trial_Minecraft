@@ -1,0 +1,54 @@
+{  "item.tutrialmod.buff_zombie_spawn_egg": "Buff Zombie Spawn Egg",
+  "item.tutrialmod.pigeon_spawn_egg": "Pigeon Spawn Egg",
+
+  "entity.tutrialmod.buff_zombie" : "Buff Zombie",
+  "entity.tutrialmod.pigeon" : "Pigeon",
+
+"fluid.tutrialmod.oil": "Oil",
+
+  "item.tutrialmod.amethyst" : "Amethyst",
+  "item.tutrialmod.oil_bucket" : "Oil Bucket",
+  "item.tutrialmod.amethyst_helmet" : "Amethyst Helmet",
+  "item.tutrialmod.amethyst_chestplate" : "Amethyst Chestplate",
+  "item.tutrialmod.amethyst_leggings" : "Amethyst Leggings",
+  "item.tutrialmod.amethyst_boots" : "Amethyst Boots",
+  "item.tutrialmod.amethyst_pickaxe1" : "Amethyst Pickaxe",
+  "item.tutrialmod.amethyst_shovel" : "Amethyst Shovel",
+  "item.tutrialmod.amethyst_axe" : "Amethyst Axe",
+  "item.tutrialmod.amethyst_hoe" : "Amethyst Hoe",
+  "item.tutrialmod.amethyst_sword" : "Amethyst Sword",
+  "item.tutrialmod.firestone": "FireStone",
+  "item.tutrialmod.oats_crop": "Oats",
+  "item.tutrialmod.amethyst_horse_armor": "Amethyst Horse Armour",
+
+  "block.tutrialmod.lightning_channeler": "Lightning Channeler",
+  "screen.tutrialmod.lightning_channeler": "Lightning Channeler",
+
+  "block.tutrialmod.redwood_leaves": "Redwood Leaves",
+  "block.tutrialmod.hyacinth":  "Hyacinth",
+  "block.tutrialmod.redwood_sapling": "Redwood Sapling",
+  "block.tutrialmod.oats_crop": "Oats",
+  "block.tutrialmod.amethyst_ore": "Amethyst Ore",
+  "block.tutrialmod.amethyst_trapdoor": "Amethyst Trapdoor",
+  "block.tutrialmod.amethyst_door": "Amethyst Door",
+  "block.tutrialmod.amethyst_block": "Amethyst Block",
+  "block.tutrialmod.amethyst_stairs": "Amethyst Stairs",
+  "block.tutrialmod.amethyst_slab": "Amethyst Slab",
+  "block.tutrialmod.amethyst_pressure_plate": "Amethyst Pressure plate",
+  "block.tutrialmod.amethyst_button": "Amethyst Button",
+  "block.tutrialmod.amethyst_fence": "Amethyst Fences",
+  "block.tutrialmod.amethyst_fence_gate": "Amethyst Fence Gates",
+  "block.tutrialmod.redwood_log": "Redwood Log",
+  "block.tutrialmod.redwood_planks": "Redwood Planks",
+  "block.tutrialmod.redwood_wood": "Redwood Wood",
+  "block.tutrialmod.stripped_redwood_log": "Stripped Redwood Log",
+  "block.tutrialmod.stripped_redwood_wood": "Stripped Redwood Wood",
+  "block.tutrialmod.firestone_block": "Firestone Block",
+
+  "itemGroup.tutorialModTab": "Tutorial Mod",
+
+  "tooltip.tutrialmod.firestone_shift": "Hold SHIFT for extra stuff",
+  "tooltip.tutrialmod.firestone": "Randomly lights FIRE on you or block, has a chance to give to you fire resistance on certain blocks"
+
+
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/leaves",
+  "textures": {
+    "all": "tutrialmod:block/redwood_leaves"
+  }
+}

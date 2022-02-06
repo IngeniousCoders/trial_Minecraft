@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "tutrialmod:amethyst"
+    }
+  },
+  "result": {
+    "item": "tutrialmod:amethyst_block",
+    "count": 2
+  }
+}

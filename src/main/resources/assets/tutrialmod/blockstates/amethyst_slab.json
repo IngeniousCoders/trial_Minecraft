@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "tutrialmod:block/amethyst_slab"
+    },
+    "type=double": {
+      "model": "tutrialmod:block/amethyst_block"
+    },
+    "type=top": {
+      "model": "tutrialmod:block/amethyst_slab_top"
+    }
+  }
+}

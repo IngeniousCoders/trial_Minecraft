@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "tutrialmod:block/lightning_channeler",
+    "north": "tutrialmod:block/lightning_channeler",
+    "south": "tutrialmod:block/lightning_channeler",
+    "east": "tutrialmod:block/lightning_channeler",
+    "west": "tutrialmod:block/lightning_channeler",
+    "up": "tutrialmod:block/lightning_channeler_top_and_bottom",
+    "down": "tutrialmod:block/lightning_channeler_top_and_bottom"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tutrialmod:amethyst_block"
+    }
+  ],
+  "result": {
+    "item": "tutrialmod:amethyst",
+    "count": 9
+  }
+}
